@@ -1,5 +1,14 @@
 # @backstage/core
 
+## 0.7.8
+
+### Patch Changes
+
+- f65adcde7: Fix some transitive dependency warnings in yarn
+- 80888659b: Bump react-hook-form version to be the same for the entire project.
+- Updated dependencies [d8b81fd28]
+  - @backstage/config@0.1.5
+
 ## 0.7.7
 
 ### Patch Changes

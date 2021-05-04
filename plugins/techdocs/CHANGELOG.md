@@ -1,5 +1,21 @@
 # @backstage/plugin-techdocs
 
+## 0.9.1
+
+### Patch Changes
+
+- 4075c6367: Make git config optional for techdocs feedback links
+- Updated dependencies [38ca05168]
+- Updated dependencies [f65adcde7]
+- Updated dependencies [81c54d1f2]
+- Updated dependencies [80888659b]
+- Updated dependencies [d8b81fd28]
+  - @backstage/integration@0.5.2
+  - @backstage/core@0.7.8
+  - @backstage/plugin-catalog-react@0.1.5
+  - @backstage/catalog-model@0.7.8
+  - @backstage/config@0.1.5
+
 ## 0.9.0
 
 ### Minor Changes

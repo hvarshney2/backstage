@@ -1,5 +1,39 @@
 # @backstage/create-app
 
+## 0.3.21
+
+### Patch Changes
+
+- 38ca05168: The default `@octokit/rest` dependency was bumped to `"^18.5.3"`.
+- Updated dependencies [38ca05168]
+- Updated dependencies [f65adcde7]
+- Updated dependencies [80888659b]
+- Updated dependencies [b219821a0]
+- Updated dependencies [fc79a6dd3]
+- Updated dependencies [69eefb5ae]
+- Updated dependencies [75c8cec39]
+- Updated dependencies [b2e2ec753]
+- Updated dependencies [227439a72]
+- Updated dependencies [9314a8592]
+- Updated dependencies [4075c6367]
+- Updated dependencies [cdb3426e5]
+- Updated dependencies [d8b81fd28]
+- Updated dependencies [d1b1306d9]
+  - @backstage/backend-common@0.6.4
+  - @backstage/plugin-catalog-import@0.5.5
+  - @backstage/plugin-github-actions@0.4.5
+  - @backstage/plugin-scaffolder-backend@0.10.2
+  - @backstage/cli@0.6.10
+  - @backstage/core@0.7.8
+  - @backstage/plugin-catalog-backend@0.8.2
+  - @backstage/plugin-tech-radar@0.3.10
+  - @backstage/plugin-scaffolder@0.9.3
+  - @backstage/plugin-techdocs@0.9.1
+  - @backstage/plugin-proxy-backend@0.2.7
+  - @backstage/catalog-model@0.7.8
+  - @backstage/config@0.1.5
+  - @backstage/catalog-client@0.3.11
+
 ## 0.3.20
 
 ### Patch Changes
